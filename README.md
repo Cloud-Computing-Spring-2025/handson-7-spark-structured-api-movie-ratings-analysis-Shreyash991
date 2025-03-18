@@ -182,7 +182,7 @@ UserID,MovieID,MovieTitle,Genre,Rating,ReviewCount,WatchedYear,UserLocation,AgeG
 ...
 ```
 
-## **Assignment Tasks**
+## **Assignment Tasks and Outputs**
 
 You are required to complete the following three analysis tasks using Spark Structured APIs. Ensure that your analysis is well-documented, with clear explanations and any relevant visualizations or summaries.
 
