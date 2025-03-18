@@ -256,7 +256,7 @@ Analyze how **movie-watching trends** have changed over the years and find peak 
 
 A summary of **movie-watching trends** over the years, indicating peak years for streaming activity.
 
-**Example Output:**  
+**Result Output:**  
 
 | Watched Year | Movies watched |
 |--------------|----------------|
